@@ -22,7 +22,6 @@ tap caskroom/drivers
 cask garmin-express
 
 tap caskroom/cask
-cask slic3r
 cask atom
 cask ccleaner
 cask virtualbox
@@ -36,10 +35,12 @@ cask docker
 cask vagrant
 cask gimp
 cask virtualbox-extension-pack
+cask prusa-slic3r
 cask vnc-viewer
 cask vmware-fusion
 cask filezilla
 cask java
+cask etcher
 cask shiftit
 cask minikube
 
