@@ -1,25 +1,24 @@
 
 # tap repositories and their packages
 
-tap buo/cask-upgrade
-
-tap homebrew/dupes
-
 tap homebrew/core
-brew mas
-brew python
-brew kubernetes-helm
-brew kubernetes-cli
-brew sqlite
-brew openssl
-brew readline
+brew autoconf
 brew gdbm
+brew kubernetes-cli
+brew kubernetes-helm
+brew mas
+brew openssl
 brew pkg-config
+brew pyenv
+brew pyenv-virtualenv
+brew pyenv-virtualenvwrapper
+brew python
+brew readline
+brew sqlite
 
 tap homebrew/boneyard
 
-tap caskroom/drivers
-cask garmin-express
+tap homebrew/dupes
 
 tap caskroom/cask
 cask atom
@@ -44,7 +43,12 @@ cask etcher
 cask shiftit
 cask minikube
 
+tap caskroom/drivers
+cask garmin-express
+
 tap beeftornado/rmtree
+
+tap buo/cask-upgrade
 
 tap rcmdnk/file
 brew brew-file
@@ -57,4 +61,4 @@ appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3)
 appstore 823766827 OneDrive (17.3.6967)
 appstore 409201541 Pages (6.3)
-appstore 497799835 Xcode (9.0)
+appstore 497799835 Xcode (9.0.1)
