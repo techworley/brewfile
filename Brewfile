@@ -2,19 +2,51 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew atk
+brew atkmm
 brew autoconf
+brew cairo
+brew cairomm
+brew fontconfig
+brew freetype
 brew gdbm
+brew gdk-pixbuf
+brew gettext
+brew glib
+brew glibmm
+brew gobject-introspection
+brew graphite2
+brew gsettings-desktop-schemas
+brew gsmartcontrol
+brew gtk+3
+brew gtkmm3
+brew harfbuzz
+brew hicolor-icon-theme
+brew icu4c
+brew jpeg
 brew kubernetes-cli
 brew kubernetes-helm
+brew libepoxy
+brew libffi
+brew libpng
+brew libsigc++
+brew libtiff
 brew mas
 brew openssl
+brew pango
+brew pangomm
+brew pcre
+brew pixman
 brew pkg-config
 brew pyenv
 brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
+brew python3
 brew readline
+brew smartmontools
 brew sqlite
+brew xz
 
 tap homebrew/boneyard
 
@@ -25,9 +57,11 @@ cask atom
 cask ccleaner
 cask virtualbox
 cask plex-media-server
+cask tunnelblick
 cask handbrake
 cask google-photos-backup-and-sync
 cask purevpn
+cask iterm2
 cask cura
 cask malwarebytes
 cask docker
