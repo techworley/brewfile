@@ -4,9 +4,14 @@
 tap homebrew/core
 brew atk
 brew atkmm
+brew augeas
 brew autoconf
+brew awscli
 brew cairo
 brew cairomm
+brew certbot
+brew dialog
+brew ffmpeg
 brew fontconfig
 brew freetype
 brew gdbm
@@ -26,6 +31,7 @@ brew icu4c
 brew jpeg
 brew kubernetes-cli
 brew kubernetes-helm
+brew lame
 brew libepoxy
 brew libffi
 brew libpng
@@ -33,6 +39,7 @@ brew libsigc++
 brew libtiff
 brew mas
 brew openssl
+brew openssl@1.1
 brew pango
 brew pangomm
 brew pcre
@@ -46,7 +53,10 @@ brew python3
 brew readline
 brew smartmontools
 brew sqlite
+brew x264
+brew xvid
 brew xz
+brew youtube-dl
 
 tap homebrew/boneyard
 
@@ -57,8 +67,10 @@ cask atom
 cask ccleaner
 cask virtualbox
 cask plex-media-server
+cask skype
 cask tunnelblick
 cask handbrake
+cask termhere
 cask google-photos-backup-and-sync
 cask purevpn
 cask iterm2
@@ -70,6 +82,7 @@ cask gimp
 cask virtualbox-extension-pack
 cask prusa-slic3r
 cask vnc-viewer
+cask cyberduck
 cask vmware-fusion
 cask filezilla
 cask java
@@ -89,10 +102,10 @@ brew brew-file
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
-appstore 408981434 iMovie (10.1.7)
-appstore 409183694 Keynote (7.3)
+appstore 408981434 iMovie (10.1.8)
+appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
-appstore 409203825 Numbers (4.3)
-appstore 823766827 OneDrive (17.3.6967)
-appstore 409201541 Pages (6.3)
-appstore 497799835 Xcode (9.0.1)
+appstore 409203825 Numbers (4.3.1)
+appstore 823766827 OneDrive (17.3.7078)
+appstore 409201541 Pages (6.3.1)
+appstore 497799835 Xcode (9.1)
