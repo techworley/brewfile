@@ -43,6 +43,7 @@ brew openssl@1.1
 brew pango
 brew pangomm
 brew pcre
+brew phantomjs
 brew pixman
 brew pkg-config
 brew pyenv
@@ -108,6 +109,6 @@ appstore 408981434 iMovie (10.1.8)
 appstore 409183694 Keynote (7.3.1)
 appstore 715768417 Microsoft Remote Desktop (8.0.27325)
 appstore 409203825 Numbers (4.3.1)
-appstore 823766827 OneDrive (17.3.7078)
+appstore 823766827 OneDrive (17.3.7131)
 appstore 409201541 Pages (6.3.1)
-appstore 497799835 Xcode (9.1)
+appstore 497799835 Xcode (9.2)
