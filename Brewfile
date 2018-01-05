@@ -77,7 +77,6 @@ cask termhere
 cask google-photos-backup-and-sync
 cask purevpn
 cask iterm2
-cask cura
 cask malwarebytes
 cask docker
 cask vagrant
@@ -102,6 +101,9 @@ tap buo/cask-upgrade
 
 tap rcmdnk/file
 brew brew-file
+
+# Cask applications
+cask cura
 
 # App Store applications
 appstore 682658836 GarageBand (10.2.0)
