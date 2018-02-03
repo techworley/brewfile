@@ -19,6 +19,8 @@ brew gdk-pixbuf
 brew gettext
 brew glib
 brew glibmm
+brew gmp
+brew gnutls
 brew gobject-introspection
 brew graphite2
 brew gsettings-desktop-schemas
@@ -36,10 +38,15 @@ brew libepoxy
 brew libffi
 brew libpng
 brew libsigc++
+brew libtasn1
 brew libtiff
+brew libunistring
 brew mas
+brew ncurses
+brew nettle
 brew openssl
 brew openssl@1.1
+brew p11-kit
 brew pango
 brew pangomm
 brew pcre
@@ -51,6 +58,7 @@ brew pyenv-virtualenv
 brew pyenv-virtualenvwrapper
 brew python
 brew python3
+brew qemu
 brew readline
 brew smartmontools
 brew sqlite
@@ -71,6 +79,7 @@ cask ccleaner
 cask virtualbox
 cask plex-media-server
 cask skype
+cask fwbuilder
 cask tunnelblick
 cask handbrake
 cask termhere
